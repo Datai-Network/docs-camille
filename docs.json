@@ -27,11 +27,12 @@
           },
           {
             "group": "Token",
-            "pages": ["token/utility", "general/protocols"]
+            "pages": ["token/utility", "token/rewards", "token/tokenomics"]
           },
+
           {
-            "group": "General",
-            "pages": ["general/networks", "general/protocols"]
+            "group": "Community",
+            "pages": ["community/channels"]
           }
         ]
       }
