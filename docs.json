@@ -14,7 +14,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Intro",
             "pages": ["meet-camille"]
           },
           {
@@ -27,7 +27,7 @@
           },
           {
             "group": "Token",
-            "pages": ["token/utility", "token/rewards", "token/tokenomics"]
+            "pages": ["token/utility", "token/rewards"]
           },
 
           {
