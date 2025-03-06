@@ -50,6 +50,11 @@
           "icon": "x-twitter"
         },
         {
+          "anchor": "Telegram",
+          "href": "https://t.me/MeetCamilleChat",
+          "icon": "telegram"
+        },
+        {
           "anchor": "Blog",
           "href": "https://datai.network/blog",
           "icon": "newspaper"
